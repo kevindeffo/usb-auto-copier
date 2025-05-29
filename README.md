@@ -21,7 +21,8 @@
 
 Clone ce dépôt et place ton fichier `ouvre_moi.txt` dans ton dossier personnel :
 
-git clone https://github.com/<ton-nom-utilisateur>/usb-auto-copier.git
+```bash
+git clone https://github.com/utilisateur/usb-auto-copier.git
 cd usb-auto-copier
 
 Place ensuite ton fichier `ouvre_moi.txt` à l’emplacement suivant selon ton système :
