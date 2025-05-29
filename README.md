@@ -24,6 +24,7 @@ Clone ce dépôt et place ton fichier `ouvre_moi.txt` dans ton dossier personnel
 ```bash
 git clone https://github.com/utilisateur/usb-auto-copier.git
 cd usb-auto-copier
+```
 
 Place ensuite ton fichier `ouvre_moi.txt` à l’emplacement suivant selon ton système :
 
@@ -33,7 +34,10 @@ Place ensuite ton fichier `ouvre_moi.txt` à l’emplacement suivant selon ton s
 ## 🏃‍♂️ Utilisation
 
 ### ▶️ Lancer le script
+
+```bash
 python usb_watcher.py
+```
 
 ### 🔁 Comportement
 
